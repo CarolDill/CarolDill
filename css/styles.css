@@ -94,6 +94,11 @@ p {
     right: 50%;
 }
 
+#carol {
+    top: 50%;
+    right:50%;
+}
+
 .linked, .git {
     position: relative;
     font-size: 40px;
