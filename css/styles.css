@@ -68,6 +68,9 @@ body {
     margin-right: 3rem;
     z-index: 1;
     position: relative;
+}
+
+.lastField {
     background-color:  linear-gradient(329.54deg, #51beab 0%, #7fccb8 100%);
 }
 
