@@ -58,9 +58,11 @@ body {
     box-shadow: 1.5rem 2.5rem 5rem 0.7rem rgba(0,0,0,.13);
 }
 
+#last {
+    background: linear-gradient(329.54deg, #9329d1 0%, #8257E6 100%);
+}
 #particles {
     z-index: 449;
-    background: linear-gradient(329.54deg, #9329d1 0%, #8257E6 100%);
     position: absolute;
 }
 
