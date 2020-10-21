@@ -16,6 +16,7 @@ body {
 
 .particles {
     position: absolute;
+    z-index: 0;
 }
 .second {
   background: linear-gradient(329.54deg, #309b91 0%, #1a6a6b 100%);
