@@ -24,11 +24,17 @@ Where:
 📚 Looking forward to learn even more!
 
 Don't be shy and get in touch!
-<p>[![Outlook Badge](https://img.shields.io/badge/Mail_me-gray?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:carol37_dill@msn.com)](mailto:carol37_dill@msn.com)</p>
-<p>[![Linkedin Badge](https://img.shields.io/badge/-Caroline--Dill-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroline-dill3007/)](https://www.linkedin.com/in/caroline-dill3007/)</p>
-<p>[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/CarolDill)](https://github.com/CarolDill)</p>
+<br>
+<br>
+[![Outlook Badge](https://img.shields.io/badge/Mail_me-gray?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:carol37_dill@msn.com)](mailto:carol37_dill@msn.com)
+<br>
+[![Linkedin Badge](https://img.shields.io/badge/-Caroline--Dill-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroline-dill3007/)](https://www.linkedin.com/in/caroline-dill3007/)
+<br>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/CarolDill)](https://github.com/CarolDill)
 
 <br>
 <br>
 <p>Thank you for the visit!</p>
-<p>![](https://komarev.com/ghpvc/?username=CarolDilll&color=blue&style=flat)</p>
+<br>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CarolDill" alt="CarolDill" /> </p>
