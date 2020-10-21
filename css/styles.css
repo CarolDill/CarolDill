@@ -94,9 +94,11 @@ p {
     right: 50%;
 }
 
-#carol {
+img #carol {
     top: 50%;
     right:50%;
+    position: relative;
+    z-index: 500;
 }
 
 .linked, .git {
