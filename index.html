@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./css/styles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+    <title>Carol</title>
+  </head>
+  <body>
+    <nav class="nav">
+      <div class="container">
+        <div class="logo">
+          <a href="#">Carol</a>
+        </div>
+        <div id="mainListDiv" class="main_list">
+          <ul class="navlinks">
+            <li><a href="#who-am-i">About Me</a></li>
+            <li><a href="#skills">Path</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+        </div>
+        <span class="navTrigger">
+          <i></i>
+          <i></i>
+          <i></i>
+        </span>
+      </div>
+    </nav>
+
+    <section class="home">
+    </section>
+    <div class="second" id="second">
+      <div class="textOne">
+        <a class="myH2" name="who-am-i"></a>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <a class="myH2">Who am I ?</a>
+        <p class="myP">
+          &emsp;Passionate about learning. I am the type of person that if given
+          any challenge, I go to the end to understand the process.
+        </p>
+        <p class="myP">
+          &emsp;I am curious. And this curiosity combined with an unexpected
+          situation made me embark on programming. Today I am in my first steps
+          and here I hope to demonstrate the path I am following.
+        </p>
+        <p class="myP">
+          &emsp;What I show here is a little bit of what I like combined with
+          what I've learned. Until this moment, my studies were guided by
+          curiosity and the availability of the community on the web. But that
+          is about to change ...
+        </p>
+      </div>
+      <div class="image">
+        <img src="./images/Carol.jfif" alt="Carol" height="400px" width="400px" />
+      </div>
+    </div>
+
+    <div class="third" id="third">
+      <div class="textOne">
+        <a class="myH2" name="skills"></a>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <a class="myH2">Path</a>
+        <p class="myP">
+          &emsp;I started simple, one step at a time. I took a few online
+          courses, including
+          <a
+            href="https://www.edx.org/course/cs50s-introduction-to-computer-science"
+            target="_blank"
+            >CS50</a
+          >, which is my first certificate in Technology.
+        </p>
+        <p class="myP">
+          &emsp;In October 2020, I participated on the "Next Level Week", an
+          online event where I could learn to make an web application from
+          scratch. This gallery on the rigth will show a few screens for this
+          project. You can also access it
+          <a href="https://happy-nlw3-carol.herokuapp.com/">here</a>.
+        </p>
+        <p class="myP">
+          &emsp;I am currently enrolled on the 14th class of the Rocketseat
+          Bootcamp, where I'll have the opportunity to learn new skills, which
+          are today, and I'll believe that allways will be, in development:
+        </p>
+        <ul>
+          <li>HMTL</li>
+          <li>CSS</li>
+          <li>Javascript</li>
+        </ul>
+        <p class="myP">The studies I'm persuing today focus:</p>
+        <ul>
+          <li>Node.js</li>
+          <li>React</li>
+          <li>React Native</li>
+        </ul>
+      </div>
+      <div class="gallery">
+        <section class="container gallery-container">
+          <!--Slide-->
+          <div class="mySlides fade">
+            <!-- 01 -->
+            <div class="numbertext">01 / 04</div>
+            <img
+              class="imgslide"
+              src="./images/happy1.JPG"
+              alt="Happy site, front page"
+            />
+            <div class="text">Happy Site - Front Page</div>
+          </div>
+
+          <div class="mySlides fade">
+            <!-- 02 -->
+            <div class="numbertext">02 / 04</div>
+            <img class="imgslide" src="./images/happy2.JPG" />
+            <div class="text">Happy Site - Front Page new Theme</div>
+          </div>
+
+          <div class="mySlides fade">
+            <!-- 03 -->
+            <div class="numbertext">03 / 04</div>
+            <img class="imgslide" src="./images/happy3.JPG" />
+            <div class="text">Happy Site - Map with orphanages</div>
+          </div>
+
+          <div class="mySlides fade">
+            <!-- 04 -->
+            <div class="numbertext">04 / 04</div>
+            <img class="imgslide" src="./images/happy4.JPG" alt="Jandaia" />
+            <div class="text">Happy Site - Create a new orphanage</div>
+          </div>
+
+          <!--Final Slides-->
+
+          <!--Navigation-->
+          <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+          <a class="next" onclick="plusSlides(1)">&#10095;</a>
+        </section>
+      </div>
+    </div>
+
+    <div class="fourth" id="fourth">
+      <div class="textLast">
+        <a class="myH2" name="contact"></a>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <a class="myH2">Don't be shy</a>
+      </div>
+      <div class="images">
+        <img src="./images/github.png" alt="Github" height="50" width="50" />
+        <img src="./images/linkedin.png" alt="LinkedIn" height="50" width="50" />
+      </div>
+      <div class="info">
+        <div class="git">
+          <a href="https://github.com/CarolDill" target="_blank">Github</a>
+        </div>
+        <div class="linked">
+          <a href="https://www.linkedin.com/in/caroline-dill3007/" >LinkedIn</a>
+        </div>
+      </div>
+    </div>
+
+    <footer>
+      <p class="footer">CarolDill 2020</p>
+    </footer>
+
+    <!-- Jquery needed -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+    <!-- Function used to shrink nav bar removing paddings and adding black background -->
+    <script>
+      $(window).scroll(function () {
+        if ($(document).scrollTop() > 50) {
+          $(".nav").addClass("affix");
+          console.log("OK");
+        } else {
+          $(".nav").removeClass("affix");
+        }
+      });
+    </script>
+    <script src="./scripts/scripts.js"></script>
+  </body>
+</html>
