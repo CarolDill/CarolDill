@@ -14,6 +14,9 @@ body {
     padding-left: 20%;
 }
 
+.particles {
+    position: absolute;
+}
 .second {
   background: linear-gradient(329.54deg, #309b91 0%, #1a6a6b 100%);
   display: flex;
@@ -23,7 +26,7 @@ body {
   box-shadow: 1.5rem 2.5rem 5rem 0.7rem rgba(0,0,0,.13);
   height: 760px;
   position: relative;
-  z-index: 999;
+  z-index: 1;
 }
     @media screen and (max-width: 431px) {
         .second {
