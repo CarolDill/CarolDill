@@ -68,11 +68,9 @@ body {
     margin-right: 3rem;
     z-index: 1;
     position: relative;
+    background: linear-gradient(329.54deg, #51beab 0%, #7fccb8 100%);
 }
 
-.lastField {
-    background-color:  linear-gradient(329.54deg, #51beab 0%, #7fccb8 100%);
-}
 
 .textOne {
     padding-left: 4rem;
@@ -146,6 +144,7 @@ canvas {
     position: fixed;
     line-height: 65px;
     text-align: center;
+    z-index: 500;
 }
 
 .nav div.logo {
