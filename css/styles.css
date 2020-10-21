@@ -98,7 +98,7 @@ p {
     right: 50%;
 }
 
-img #carol {
+img#carol {
     z-index: 500;
     size: clamp (200rem, 300rem, 400rem)
 }
