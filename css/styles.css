@@ -98,9 +98,21 @@ p {
     right: 50%;
 }
 
-img#carol {
+.carol img {
     z-index: 500;
-    size: clamp (200rem, 300rem, 400rem)
+    max-width:300px;
+    max-height: 300px;
+    width: auto;
+    height: auto;
+    position: relative;
+    padding-left: 70%;
+    padding-top: 10%;  
+}
+
+@media screen and (max-width:1200px){
+    .carol {
+        display: none;
+    }
 }
 
 .linked, .git {
