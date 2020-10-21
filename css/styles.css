@@ -69,6 +69,7 @@ body {
     z-index: 1;
     position: relative;
     background: linear-gradient(329.54deg, #309b91 0%, #1a6a6b 100%);
+    padding-left: 3rem;
 }
 
 
@@ -95,9 +96,6 @@ p {
 }
 
 img #carol {
-    top: 50%;
-    right:50%;
-    position: relative;
     z-index: 500;
 }
 
