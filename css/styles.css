@@ -64,9 +64,11 @@ body {
   }
 
 #lastField {
-  z-index: 1;
-  position: relative;
-  background-color:  linear-gradient(329.54deg, #51beab 0%, #7fccb8 100%);
+    margin-left: 3rem;
+    margin-right: 3rem;
+    z-index: 1;
+    position: relative;
+    background-color:  linear-gradient(329.54deg, #51beab 0%, #7fccb8 100%);
 }
 
 .textOne {
