@@ -110,7 +110,7 @@ p.footer {
 }
 
 canvas {
-  display: block;
+  position: relative;;
 }
 
 .second img {
