@@ -1,4 +1,4 @@
-particlesJS.load('particles', 'particlesjs-config.json');
+particlesJS.load('second', 'particlesjs-config.json');
 
 $('.navTrigger').click(function () {
   $(this).toggleClass('active');
