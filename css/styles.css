@@ -477,7 +477,8 @@ canvas {
 
 
 .myH2 {
-	font-size: 4rem;
+    font-size: 4rem;
+    padding-left: 4rem;
 }
 .myP {
 	text-align: justify;
