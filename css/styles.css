@@ -57,6 +57,18 @@ body {
     box-shadow: 1.5rem 2.5rem 5rem 0.7rem rgba(0,0,0,.13);
 }
 
+#particles {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+  }
+
+#lastField {
+  z-index: 1;
+  position: relative;
+  background-color: transparent;
+}
+
 .textOne {
     padding-left: 4rem;
   }
