@@ -4,14 +4,14 @@
 
 Whether you got here intentionally or not, enjoy! 😊
 
-<p>But before you go, let me tell you a little about myself... I'm Caroline, an enthusiastic In Web Development. Started studying by myself in the middle of the pandemic.</p>
+<p>But before you go, let me tell you a little about myself... I'm Caroline, a Web Development enthusiast. I started studying alone in the middle of the pandemic.</p>
 <p>Decided to change! Started from scratch, why not?</p>
-<p>I am just a few steps ahead, and I know the journey is long, but for now I can enjoy the view.</p>
-<p>I'm determined, don't doubt that.. or maybe you should! I only need a chance to show the fast learner I am!</p>
+<p>I am just a few steps ahead and I know the journey is long, but for now I can enjoy the view.</p>
+<p>I'm determined, don't doubt it.. or maybe you should! I only need a chance to show how fast I learn!</p>
 
 <p>Always studying.</p>
 
-### Currently embrassing: 🔧
+### Currently covering: 🔧
 - HTML
 - CSS
 - Javascript
@@ -21,9 +21,9 @@ Whether you got here intentionally or not, enjoy! 😊
 Where:
 <a href="https://github.com/Rocketseat">Rocketseat</a>
 
-📚 Looking forward to learn even more!
+📚 I look forward to learning even more!
 
-Don't be shy and get in touch!
+Don't be shy and get in touch:
 <br>
 <br>
 [![Outlook Badge](https://img.shields.io/badge/Mail_me-gray?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:carol37_dill@msn.com)](mailto:carol37_dill@msn.com)
